@@ -34,10 +34,12 @@
 
 ---
 
-### 🌱 Currently Learning
-- Java & Spring Boot
-- Frontend Frameworks (Vue.js)
-- Test Automation
-- Containerization & CI/CD with Docker
+### My projects 
+- Java & Spring Boot applications
+- Developed UI met Vue.js
+
+
+### 🌱 Currently learning 
+- 
 
 
